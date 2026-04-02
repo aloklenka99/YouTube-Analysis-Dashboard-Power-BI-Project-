@@ -107,5 +107,15 @@ Contains:
 📸 Dashboard Preview
 <img width="1165" height="581" alt="image" src="https://github.com/user-attachments/assets/35a1236d-bb32-41ae-b32d-9a5f65109ad4" />
 
+🧠 What I Learned
+
+* Data cleaning & transformation in Power BI
+
+* Writing DAX measures for business insights
+
+* Building interactive dashboards
+
+* Converting raw data into actionable insights
+
 
 
